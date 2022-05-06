@@ -1,0 +1,10 @@
+body {
+  background-image: url('img/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no repeat;
+}
+
+#blank {
+  height: 100px; 
+  background-color: rgba(0,0,0,0.0);
+}
